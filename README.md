@@ -1,2 +1,1 @@
-# daily-diet
-# rn-firebase-notify
+# react-native-firebase-notify
